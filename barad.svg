@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
-  <defs />
-  <g fill="none" fill-rule="evenodd">
-    <circle cx="500" cy="500" r="500" fill="#000" />
-    <path
-      fill="#FFF"
-      d="M450 400h100V300h200v400H250V300h200v100zm0 100H350v100h100V500zm200 0H550v100h100V500z"
-    />
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><g fill="none" fill-rule="evenodd"><circle cx="500" cy="500" r="500" fill="#000"/><path fill="#FFF" d="M450 400h100V300h200v400H250V300h200v100zm0 100H350v100h100V500zm200 0H550v100h100V500z"/></g></svg>
